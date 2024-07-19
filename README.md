@@ -1,6 +1,6 @@
-# CrugOrkay [openmodelica]("https://mbe.modelica.university/")
+# CrugOrkya [openmodelica]("https://mbe.modelica.university/")
 
-CrugOrkay is a Modelica library developed by the Modelica Association, specifically for the Modelica-based engineering (MBE) community. It provides a collection of models, functions, and blocks for simulating and analyzing crushing and breaking processes in various materials. The library is open-source and available at https://mbe.modelica.university/.
+CrugOrkya is a Modelica library developed by the Modelica Association, specifically for the Modelica-based engineering (MBE) community. It provides a collection of models, functions, and blocks for simulating and analyzing crushing and breaking processes in various materials. The library is open-source and available at https://mbe.modelica.university/.
 
 
 Front Matter¶
