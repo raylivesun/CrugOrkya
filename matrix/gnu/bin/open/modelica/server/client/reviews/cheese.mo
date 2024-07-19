@@ -1,0 +1,43 @@
+model cheese "Description"
+
+   String cheese = "Description";
+   String description = "cheese";
+   String types = "model";
+   String modelType = "cheese";
+   String source = "Description";
+   String sourceType = "source";
+   String sourceName = "Description";
+   String sourceNameType = "sourceName";
+   String sourceDescription = "Description";
+   String sourceDescriptionType = "sourceDescription";
+   String sourceURL = "Description";
+   String sourceURLType = "sourceURL";
+   String sourceAttribution = "Description";
+   String sourceAttributionType = "sourceAttribution";
+   String sourceContact = "Description";
+   String sourceContactType = "sourceContact";
+   String sourceDate = "Description";
+   String sourceDateType = "sourceDate";
+   String sourceLicense = "Description";
+   String sourceLicenseType = "sourceLicense";
+   String sourceIdentifier = "Description";
+   String sourceIdentifierType = "sourceIdentifier";
+   String sourceVersion = "Description";
+   String sourceVersionType = "sourceVersion";
+   String sourceStatus = "Description";
+   String sourceStatusType = "sourceStatus";
+   String sourceCitation = "Description";
+   String sourceCitationType = "sourceCitation";
+   String sourceNotes = "Description";
+   String sourceNotesType = "sourceNotes";
+   String sourceProvenance = "Description";
+   String sourceProvenanceType = "sourceProvenance";
+   String sourceRelation = "Description";
+   String sourceRelationType = "sourceRelation";
+   String sourceCoverage = "Description";
+   String sourceCoverageType = "sourceCoverage";
+   String sourceRights = "Description";
+   String sourceRightsType = "sourceRights";
+   String sourceIdentifierSpace = "Description";
+
+end cheese;
